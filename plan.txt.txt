@@ -1,0 +1,7 @@
+UPDATED PLAN:
+
+ //opening text file. example text files given. go through text file line by line.
+ //iterate through each sentence to create ngrams. find bigrams and trigrams up to max order.
+ //for hashmaps keys are string (ngram), value is count of how many exist in text. increment order for ngram and history.
+ //create a next word predictor model using hashmaps generated.
+ //start with constructor and move to get counts.
